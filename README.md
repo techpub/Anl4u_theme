@@ -9,7 +9,7 @@ Current version: 0.1.0
 
 It's a plugin theme for LightTable. In simple words it is a theme with white background.
 
-![LighTable Anl4u](https://github.com/mmarif4u/Anl4u_theme/blob/master/lt.png)
+![Anl4u Theme](http://i.imgur.com/4UJ1rRe.png)
 
 ##How do I use it?
 
