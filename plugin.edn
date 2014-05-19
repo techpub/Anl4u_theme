@@ -1,0 +1,6 @@
+{:name "Anl4u theme"
+ :version "0.1.0"
+ :author "M M Arif"
+ :source "https://github.com/mmarif4u/Anl4u_theme"
+ :desc "Anl4u theme with white background"
+ :behaviors "anl4u.behaviors"}
