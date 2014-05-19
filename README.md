@@ -9,6 +9,8 @@ Current version: 0.1.0
 
 It's a plugin theme for LightTable. In simple words it is a theme with white background.
 
+
+
 ##How do I use it?
 
 1- Download it and copy the extracted folder to OR clone the repository in:
