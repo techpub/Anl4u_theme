@@ -1,4 +1,4 @@
-ANl4u LighTable Theme
+Anl4u LighTable Theme
 ===========
 
 Anl4u theme plugin for LightTable.
@@ -16,7 +16,7 @@ Linux: ~/.config/LightTable/plugins
 OS X: ~/Library/Application Support/LightTable/plugins/
 Windows: %APPDATALOCAL%/LightTable/plugins/
 2- Open user.behaviors from commands in LighTable, and add this in editor section:
-(:lt.objs.style/set-theme "anl4u") (:lt.objs.editor/highlight-current-line)]
+		(:lt.objs.style/set-theme "anl4u") (:lt.objs.editor/highlight-current-line)]
 3- Restart if necessary.
 
 ##Distribution
